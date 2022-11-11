@@ -1,0 +1,48 @@
+
+.nowapara{
+    display: flex;
+    margin-top: -50px;
+
+}
+.imgnowa{
+  margin-left: 28px;
+}
+.imgnowa img{
+    height: 600px;
+    
+}
+.flaticone{
+    display: flex;
+    margin-left: 45px;
+    justify-content: space-between;
+    width: 40%;
+    margin-top: 20%;
+
+}
+.flaticone img{
+    height: 50px;
+}
+.paraimag{
+    margin-top: 100px;
+    height: 300px;
+    width: 75%;
+    margin-left: 50px;
+    text-align: left;
+
+}
+
+.quali{
+
+    display: flex;
+    margin-left: 59px;
+    justify-content: space-around;
+    width: 70%;
+
+}
+.staf{
+    text-align: left;
+}
+.services{
+    text-align: left;
+ 
+}

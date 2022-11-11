@@ -1,0 +1,30 @@
+.hydrofarm img{
+    height: 60vh;
+}
+.imgflex{
+    display: grid;
+   grid-template-columns: repeat(2, 1fr);
+   column-gap: 5px;
+   gap: 5px;
+   width: 62%;
+   margin: auto;
+   padding-left: 20px;
+   margin-left: 19%;
+   box-shadow:0 2px 0px 0 rgba(241, 237, 237, 0.2), 0 6px 20px 0 rgba(116, 113, 113, 0.19);
+
+}
+.imgflex img{
+    height: 50vh;
+    
+}
+
+
+.pagespara{
+    height: 50vh;
+    padding-left: 25px;
+    width: 62%;
+    text-align:left ;
+    margin-left: 19%;
+    box-shadow:0 2px 0px 0 rgba(241, 237, 237, 0.2), 0 6px 20px 0 rgba(116, 113, 113, 0.19);
+
+}

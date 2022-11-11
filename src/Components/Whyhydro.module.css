@@ -1,0 +1,38 @@
+.firsth{
+    height: 300px;
+
+}
+.secondh{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+}
+.paraone{
+    /* border: 2px solid blue; */
+    width: 25%;
+    text-align: left;
+    height: 200px;
+    font-size: 15px;
+    margin-left: 10%;
+
+}
+.paratwo{
+    width: 35%;
+    text-align: left;
+    font-size: 12px;
+}
+.hydropara h2{
+    font-size: 25px;
+}
+.btn button{
+
+    height: 50px;
+    width: 35%;
+    font-size: 17px;
+    background-color: #F6DE57 ;
+    border: none;
+    border-radius: 23px;
+}
+.arrow{
+    margin-left: -30px;
+}

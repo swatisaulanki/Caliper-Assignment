@@ -1,0 +1,21 @@
+.imgesss{
+    /* border:2px solid red; */
+    display: grid;
+    justify-content: space-around;
+    margin-left: 60px;
+    grid-template-columns: repeat(4,1fr);
+}
+.imgbacks{
+    background-color:#e7eef6;
+     height:130vh ;
+}
+.imgesss img{
+    height: 270px;    
+    margin-top: 50px;
+
+}
+.imgesss img:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transform: translate(-2%, -2%);
+
+}

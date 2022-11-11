@@ -1,0 +1,92 @@
+.footcont{
+    border:1px solid #404a3d;
+
+    background-color: #404a3d;
+
+}
+
+.footcontainer{
+    margin-top: 40px;
+    display: flex;
+    height: 332px;
+}
+.footOne{
+    width: 30%;
+    margin-left: 15%;
+
+}
+.footTwo{
+    text-align: left;
+    width: 88%;
+    margin-left: 10%;
+
+    
+}
+.footTwo p{
+    color: white;
+    
+}
+.imgfirst{
+    width: 85%;
+}
+.footThree{
+    width: 13%;
+    text-align: left;
+    margin-left:3%;
+
+}
+.footThree p{
+    color:white;
+    font-size: 13px;
+}
+.footThree h2{
+    color:white;
+}
+.footFoure{
+    width: 15%;
+    margin-left: 19px;
+    text-align: left;
+    /* border: 2px solid red; */
+
+}
+.footFoure p{
+    color:white;
+    font-size: 13px;
+
+}
+.footFoure h2{
+    color:white
+}
+.footFive{
+    margin-left: 55px;
+    text-align: left;   
+
+}
+.footFive p{
+    color:white;
+    font-size: 13px;
+
+}
+.footFive h2{
+    color:white;
+}
+.verticle{
+    border: 1px solid white;
+    color: white;
+    height: 250px;
+}
+.facebook img{
+   height: 30px;
+   border-radius: 10px;
+}
+.containericon{
+       width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    text-align: left;
+    margin-left: 17%;
+    width: 20%;
+    color: white;
+}

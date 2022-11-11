@@ -1,0 +1,70 @@
+.maincontainer{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 10px;
+    height: 5vh;
+    background-size: cover;
+    background-color: rgb(20, 27, 20);
+    /* position: sticky; */
+    top: 0;
+    width: 100vw;
+    position: fixed;
+
+}
+a{
+    color:rgb(21, 19, 19);
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration:none ;
+    color: white;
+    
+}
+a:hover{
+    color: red;
+}
+
+
+.enquiry{
+    display: flex;
+    /* border: 2px solid red; */
+    height: 35px;
+    width: 10%;
+    border-radius: 20px;
+    background-color:#FCE66C ;
+}
+.enq{
+    margin-top: -3px;
+    margin-left: 10px;
+}
+.icon{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.imge img{
+    height: 40px;
+}
+/* Centered text */
+/* .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } */
+.navbar img{
+    margin-top: 0%;
+    height: 50px;
+}
+
+.navbar .text{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 20%; /* Adjust this value  */
+    text-align: center;
+    width: 60%; /* Set the width of the positioned  */
+    color: azure;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+}

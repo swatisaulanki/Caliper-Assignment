@@ -1,0 +1,42 @@
+.Ourstory{
+    display: flex;
+ justify-content: space-around;
+}
+.parastory{
+    width: 50%;
+    text-align: left;
+    height: 100vh;
+    margin-left: 80px;
+    box-shadow:0 2px 0px 0 rgba(241, 237, 237, 0.2), 0 6px 20px 0 rgba(105, 103, 103, 0.19);
+
+}
+.paraimg img{
+    height: 77vh;
+    margin-top: 70px;
+    margin-left: -60%;
+}
+.parasec{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+.ourpara{
+    width: 91.6%;
+    text-align: left;
+    margin-left: 8%;
+    height: 80vh;
+    margin-top: -12px;
+    box-shadow:0 2px 0px 0 rgba(241, 237, 237, 0.2), 0 6px 20px 0 rgba(116, 113, 113, 0.19);
+
+}
+.ourparatwo{
+    margin-left: 40px;
+    
+
+}
+.hour h1{
+    padding-top: 30px;
+}
+.divhi{
+    height: 100vh;
+}
